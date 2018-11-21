@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.huios.blog",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "com.huios.blog",
+    "packageFolder": "com/huios/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmQ0MzlhMjg0ZDZhNTQ0NTNhNzI1NmEwZjlkMGJkOTBiMTU1NDQ0ZTI4ZmJmNjE0MDRhOGE1OWQ5NjZhZDIyNWE1NWU1MjlhYzVmZmI0YzU5Y2RhMTU3NmY1Njg3NzE4ODMxODMwYjVhMTNhMWZjNTE3YzA5OWI5N2FkY2UyZDQ=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ]
+  }
+}
