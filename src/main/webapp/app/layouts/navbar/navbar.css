@@ -41,13 +41,13 @@ Navbar
 }
 
 .jh-navbar .jh-navbar-toggler {
-    color: #ccc;
+    color: #ffffff;
     font-size: 1.5em;
     padding: 10px;
 }
 
 .jh-navbar .jh-navbar-toggler:hover {
-    color: #fff;
+    color: #0000;
 }
 
 @media screen and (min-width: 768px) {
@@ -76,7 +76,7 @@ Logo styles
 
 .logo-img {
     height: 100%;
-    background: url('../../../content/images/logo-jhipster.png') no-repeat center center;
+    background: url('../../../content/images/activite-electrique-du-coeur.jpg') no-repeat center center;
     background-size: contain;
     width: 100%;
 }
